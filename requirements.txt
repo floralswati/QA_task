@@ -1,0 +1,16 @@
+pymupdf==1.25.2
+transformers==4.48.2
+torch==2.6.0
+tiktoken==0.8.0
+protobuf
+sentencepiece
+rank_bm25
+sentence_transformers
+evaluate
+nltk
+scikit-learn
+rouge-scorepi
+pandas
+bert_score
+openpyxl
+numpy
